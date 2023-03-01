@@ -29,8 +29,8 @@
         },
         "meta": {
           "author": {
-            "id": "802025834",
-            "name": "A Brooks",
+            "id": "702025834",
+            "name": "A Caver",
             "labels": [
               "pro"
             ],
@@ -41,9 +41,9 @@
             "logo": {
               "type": "image",
               "id": "47996296",
-              "title": "Scottish Cave Rescue Organisation"
+              "title": "My Organisation"
             },
-            "name": "Scottish Cave Rescue Organisation"
+            "name": "My Organisation"
           },
           "system": {
             "createdIn": "11",

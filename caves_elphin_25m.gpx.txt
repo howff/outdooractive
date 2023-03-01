@@ -1,0 +1,66 @@
+58.148165 -4.941314 Pol Eighe
+58.109410 -4.930121 Allt nan Uamh Stream Cave
+58.143423 -4.940786 Birthday Hole
+58.138703 -4.929572 Uamh Cailliche Peirag (Cave of the Old Woman of Peireag)
+58.151348 -4.961806 Uamh nan Caluman (Pigeon Cave)
+58.101962 -4.933941 Campbell's Cave
+58.104280 -4.935914 Uamh an Claonaite
+58.140528 -4.929909 Cnoc nan Uamh
+58.107949 -4.927641 Toll Radain [3] (Rat Hole)
+58.108113 -4.941170 Badger Cave
+58.108075 -4.940878 Reindeer Cave
+58.107989 -4.939920 Creag nan Uamh Bone Cave [5]
+58.107879 -4.939623 Creag nan Uamh Bone Cave [6]
+58.107664 -4.939214 Creag nan Uamh Bone Cave [7]
+58.151644 -4.961830 Cripples Canyon
+58.108128 -4.927656 Poll na Damoclean (Damoclean Dig)
+58.132031 -4.920325 Cave of the Deep Depression (Uamh Coire Domhainn)
+58.150875 -4.957041 Dig 17B
+58.144796 -4.940883 Earthquake Sink
+58.111619 -4.949677 Elephant Trap
+58.114265 -4.954583 Fhurain Rising
+58.149170 -4.952275 Firehose Cave
+58.141625 -4.928708 Gleann Dubh Hole(s)
+58.150036 -4.949797 Glen Bain Hole
+58.103889 -4.936136 Heidbanger Hole
+58.143205 -4.938950 Inclined Rift Cave
+58.115464 -4.959047 Lower Rising [1]
+58.115570 -4.959124 Lower Rising [2]
+58.142948 -4.939574 Lower Traligill Cave
+58.106383 -4.939024 Mole Hole
+58.108633 -4.941230 Otter Hole
+58.106041 -4.939454 Rana Hole
+58.131297 -4.919789 Storm Cave (Uamh an Doineann)
+58.108207 -4.929683 Titan Pot
+58.107859 -4.927617 Toll Radain [2] (Rat Hole)
+58.145914 -4.945377 Traligill Rising
+58.144049 -4.942113 Tree Hole
+58.140646 -4.930666 Waterslide (Uamh an Tartair, Roaring Cave)
+58.133314 -4.927447 Whinging Dog Dig
+58.134385 -4.926601 Belafonte Cave 
+58.135463 -4.923104 Uamh an Coire Domhain
+58.144275 -4.942437 Dig Site
+58.108296 -4.928179 Swallet (Julian’s Dig)
+58.134160 -4.926616 Dig
+58.132879 -4.928006 Loch, Main Sink
+58.153557 -4.956889 Uamh an Poll Droighann (Cave of the Thorns, Cave of the Thorntrees)
+58.148675 -4.950365 Glenbain Flood Rising
+58.150911 -4.962449 Torr a' Challtuinn Rising
+58.146374 -4.948814 Unnamed Rising
+58.145735 -4.945362 Lost Hole
+58.144304 -4.945074 Torran Garbha (Sink)
+58.144043 -4.940803 The Manhole
+58.143666 -4.939226 Un-named Hole
+58.142288 -4.938959 Un-named Dig
+58.143263 -4.935640 Gleann Dubh Un-named Cave
+58.133100 -4.928177 Loch Mhaolach-Coire Sink
+58.131528 -4.949982 Creagan Breaca Pot (Pot of the Little Speckled Crag)
+58.130801 -4.949905 Bilberry Moor Caves (# Blar nam Fiadhag (Uamhan), # Uamhan Blar nam Fiadhag)
+58.119256 -4.959480 Bilberry Moor Cave [1] (Blar nam Fiadhag (Uamh) [1])
+58.125769 -4.957643 Bilberry Moor Cave [2] (Blar nam Fiadhag (Uamh) [2])
+58.127910 -4.958330 Bilberry Moor Cave [3] (Blar nam Fiadhag (Uamh) [3])
+58.129302 -4.960314 Bilberry Moor Cave [4] (Blar nam Fiadhag (Uamh) [4])
+58.124474 -4.959234 Bilberry Moor Cave [5] (Blar nam Fiadhag (Uamh) [5])
+58.122497 -4.959240 Alt Mor Sink [Rising] (Big Cliff Sink [Rising])
+58.122857 -4.966913 Allt Mor Sink [2] (Big Cliff Sink [2])
+58.122268 -4.969072 Alt Mor Rising (Big Cliff Rising)

@@ -8,7 +8,7 @@
 
 touch log
 
-cat caves.txt | while read lat lon name; do
+cat caves_elphin_25m.gpx.txt | while read lat lon name; do
   echo "Adding $name"
   echo "Adding $name" >> log
   curl 'https://www.outdooractive.com/api/v2/project/outdooractive/poi/?jsapi=1&lang=en&key=KK7FCKIF-EMWGMZBX-4OSSFOAR' \
