@@ -1,0 +1,179 @@
+{
+  "header": {
+    "status": "ok"
+  },
+  "answer": {
+    "type": "pois",
+    "contents": [
+      {
+        "type": "poi",
+        "id": "802142575",
+        "title": "Allt Mor Sink [2] (Big Cliff Sink [2])",
+        "category": {
+          "id": "5556288",
+          "ooiType": "poi",
+          "title": "Cave",
+          "icon": {
+            "url": "https://res.oastatic.com/icons/oa/cave/putting_green/cave.square_vector.svg",
+            "color": "#318b39"
+          },
+          "iconMap": {
+            "url": "https://res.oastatic.com/icons/oa/cave/putting_green/cave.map_vector.svg"
+          },
+          "iconTransparent": {
+            "url": "https://res.oastatic.com/icons/oa/cave/cave.transparent.svg"
+          },
+          "keys": [
+            "cave"
+          ]
+        },
+        "meta": {
+          "author": {
+            "id": "802025834",
+            "name": "A Brooks",
+            "labels": [
+              "pro"
+            ],
+            "workflow": "published"
+          },
+          "source": {
+            "id": "47996295",
+            "logo": {
+              "type": "image",
+              "id": "47996296",
+              "title": "Scottish Cave Rescue Organisation"
+            },
+            "name": "Scottish Cave Rescue Organisation"
+          },
+          "system": {
+            "createdIn": "11",
+            "lastModifiedIn": "11"
+          },
+          "timestamp": {
+            "createdAt": "2023-02-28T15:37:55Z",
+            "lastModifiedAt": "2023-02-28T15:37:55Z",
+            "changedByClientAt": "2023-02-28T15:37:55Z"
+          },
+          "ranking": 27,
+          "translations": [
+            "en"
+          ],
+          "workflow": "new"
+        },
+        "texts": {
+          "long": "#"
+        },
+        "point": [
+          -4.966913,
+          58.122857,
+          169
+        ],
+        "contact": {
+          "address": {
+            "country": "United Kingdom"
+          }
+        },
+        "primaryRegion": {
+          "type": "tourismarea",
+          "id": "66597141",
+          "title": "The Highlands"
+        },
+        "regions": [
+          {
+            "type": "country",
+            "id": "1026662"
+          },
+          {
+            "type": "district",
+            "id": "64366579"
+          },
+          {
+            "type": "province",
+            "id": "1024944"
+          },
+          {
+            "type": "mountainarea",
+            "id": "10497619"
+          },
+          {
+            "type": "tourismarea",
+            "id": "66597141"
+          },
+          {
+            "type": "tourismarea",
+            "id": "45754836"
+          }
+        ],
+        "coordinates": [
+          {
+            "title": "OS Grid",
+            "type": "osgrid",
+            "value": "NC 25357 18720"
+          },
+          {
+            "title": "DD",
+            "type": "dd",
+            "value": "58.122857, -4.966913"
+          },
+          {
+            "title": "DMS",
+            "type": "dms",
+            "value": "58°07'22.3\"N 4°58'00.9\"W"
+          },
+          {
+            "title": "UTM",
+            "type": "utm",
+            "value": "30V 384145 6444077"
+          },
+          {
+            "title": "w3w",
+            "type": "w3w",
+            "value": "///reclusive.discussed.stated"
+          }
+        ],
+        "communityInfo": {
+          "ratingDetails": {
+            "oneStar": 0,
+            "twoStar": 0,
+            "threeStar": 0,
+            "fourStar": 0,
+            "fiveStar": 0
+          },
+          "ratingCount": 0,
+          "commentCount": 0
+        },
+        "recommendations": [
+          {
+            "id": "129601249"
+          },
+          {
+            "id": "188233950"
+          },
+          {
+            "id": "130620035"
+          },
+          {
+            "id": "147503128"
+          },
+          {
+            "id": "46308264"
+          },
+          {
+            "id": "238357174"
+          },
+          {
+            "id": "186106774"
+          },
+          {
+            "id": "186105591"
+          }
+        ],
+        "teaserText": "#",
+        "isWinter": false,
+        "openState": "unknown",
+        "isDestination": false,
+        "countryCode": "GBR"
+      }
+    ]
+  }
+}
